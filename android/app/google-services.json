@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458262052410",
+    "project_id": "mafia-party-game-bbf8b",
+    "storage_bucket": "mafia-party-game-bbf8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458262052410:android:ff9f66ae7737d9d496ff03",
+        "android_client_info": {
+          "package_name": "com.example.mafia_party_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFKt4lyhuSy9VM27SeEI2k55ZPDWgCiGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

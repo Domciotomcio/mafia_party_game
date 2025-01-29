@@ -34,6 +34,7 @@ flutter run
 ## Technologies Used
 - **Flutter** (Dart)
 - **Riverpod** for state management
+- **Freezed** for data classes
 - **Material 3** for UI design
 - **Firebase** (optional for online play)
 
